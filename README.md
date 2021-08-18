@@ -5,12 +5,17 @@
 
 Analysis of GDP per capita, Population Growth, and Meat consumption per capita
 
-TABLE OF CONTENTS.
-Motivation.
-Data.
-Approach.
-Tools Used.
-Source.
+TABLE OF CONTENTS
+
+Motivation
+
+Data
+
+Approach
+
+Tools Used
+
+Source
 
 
 If population growth is one of many population characteristics, what makes studying it so important? In this project I will examine the impact of  population growth on GDP per capita of different countries. Data from different sources will be collected, examined and analyzed to find out if there is a relationship between population growth and GDP per capita.  

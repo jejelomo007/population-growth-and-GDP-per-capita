@@ -1,8 +1,5 @@
 # Population growth, GDP per capita, and Meat consumption per capita
 
-![meat type png](https://user-images.githubusercontent.com/83980585/129940341-10c07621-6664-404e-8484-a4ad1b94ce27.PNG)
-![pop growth png](https://user-images.githubusercontent.com/83980585/129939242-6a321208-6730-47be-b6a9-c779d8d48a50.PNG)
-
 Analysis of GDP per capita, Population Growth, and Meat consumption per capita
 
 TABLE OF CONTENTS

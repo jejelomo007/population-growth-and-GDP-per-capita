@@ -11,7 +11,7 @@
 
 
 ## Summary
-population growth is one of many population characteristics, what makes studying it so important? In this project I will examine the impact of  population growth on GDP per capita of different countries. Data from different sources will be collected, examined and analyzed to find out if there is a correlation between population growth and GDP per capit, also to know if there is correlation between meat consumption per capita and GDP per capita.  
+population growth is one of many population characteristics, what makes studying it so important? In this project I will examine the impact of  population growth on GDP per capita of different countries. Data from different sources will be collected, examined and analyzed to find out if there is a correlation between population growth and GDP per capita, also to know if there is correlation between meat consumption per capita and GDP per capita.  
 
  ## Motivation
 The reason why I chose this subject for my capstone project is because I am interested to know how meat consumption per capita , population growth and GDP per capita change overtime in different countries. 

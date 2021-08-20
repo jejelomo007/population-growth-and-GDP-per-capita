@@ -1,5 +1,6 @@
 # Population growth, GDP per capita, and Meat consumption per capita
 ## Table Of Contents
+## Table Of Contents
 * [Summary](#Summary)
 * [Motivation](#Motivation)
 * [Data](#Data)

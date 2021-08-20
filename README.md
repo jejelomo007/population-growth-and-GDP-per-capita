@@ -1,6 +1,6 @@
 # Population growth, GDP per capita, and Meat consumption per capita
 ## Table Of Contents
-## Table Of Contents
+
 * [Summary](#Summary)
 * [Motivation](#Motivation)
 * [Data](#Data)
@@ -55,7 +55,7 @@ The reason why I chose this subject for my capstone project is because I am inte
 - https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD
 
 ## Link To Power BI
-
+- https://app.powerbi.com/links/fJj7W52E80?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
 
 
 

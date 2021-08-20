@@ -38,7 +38,7 @@ The reason why I chose this subject for my capstone project is because I am inte
 #### Correlation between China GDP per capita and Meat Consumption per capita from 2000 to 2020
 ![CHINA POP AND MEAT CONSUMPTION](https://user-images.githubusercontent.com/83980585/130138558-a5766a29-66b6-41c4-927f-0bf1eac294ee.PNG)
 
-- There is a positive correlation of 0.29 between  meat consumption per capita and  GDP per capita in different countries, both variables move in thesame direction.
+- There is a positive correlation of 0.29 between  meat consumption per capita and  GDP per capita in different countries.
  
 #### Correlation between United GDP per capita and Population growth from 2000 to 2020
 ![US GDP AND POP](https://user-images.githubusercontent.com/83980585/130138990-8db012ae-9786-424c-ac64-cd91fdac62fd.PNG)
@@ -46,7 +46,11 @@ The reason why I chose this subject for my capstone project is because I am inte
 #### Correlation between China GDP per capita and Population growth from 2000 to 2020
 ![CHINA GPD AND POP](https://user-images.githubusercontent.com/83980585/130139100-85d0cb80-c715-45f3-a2ad-80b1d2a51f1f.PNG)
 
--There is a negative correlation of -0.19 between GDP per capita and population growth in different countries, both variables move in opposite direction.
+-There is a negative correlation of -0.19 between GDP per capita and population growth in different countries.
+
+#### Conclusion
+Result of my findings shows that there is a positive correlation of 0.29 between GDP per capita and Meat consumption per capita in different countries over a period of time. As GDP per capita increases, meat consumption per capita increases.
+Furthermore, there is a negative correlation of -0.19 between GDP per capita and population growth in different countries over a period of time. As GDP per capita Increases, population growth decreases.
 
 
 ## Sources

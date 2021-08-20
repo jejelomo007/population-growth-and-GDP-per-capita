@@ -49,8 +49,8 @@ The reason why I chose this subject for my capstone project is because I am inte
 -There is a negative correlation of -0.19 between GDP per capita and population growth in different countries.
 
 #### Conclusion
-- Result of my findings shows that there is a positive correlation of 0.29 between GDP per capita and Meat consumption per capita in different countries over a period of time. As GDP per capita increases, meat consumption per capita increases.
-- Furthermore, there is a negative correlation of -0.19 between GDP per capita and population growth in different countries over a period of time. As GDP per capita Increases, population growth decreases.
+- Result of my findings shows that there is a positive correlation of 0.29 between GDP per capita and Meat consumption per capita in different countries over time. As GDP per capita increases, meat consumption per capita increases.
+- Furthermore, there is a negative correlation of -0.19 between GDP per capita and population growth in different countries over time. As GDP per capita Increases, population growth decreases.
 
 
 ## Sources
